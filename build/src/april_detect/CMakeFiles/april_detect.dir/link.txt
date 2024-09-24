@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapril_detect.a CMakeFiles/april_detect.dir/src/GridCalibrationTargetAprilgrid.cpp.o CMakeFiles/april_detect.dir/src/GridCalibrationTargetBase.cpp.o
+/usr/bin/ranlib libapril_detect.a

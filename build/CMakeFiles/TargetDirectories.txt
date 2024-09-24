@@ -1,0 +1,12 @@
+/data/suween/corner_detect/build/CMakeFiles/rebuild_cache.dir
+/data/suween/corner_detect/build/CMakeFiles/edit_cache.dir
+/data/suween/corner_detect/build/src/ethzasl_apriltag2/CMakeFiles/rebuild_cache.dir
+/data/suween/corner_detect/build/src/ethzasl_apriltag2/CMakeFiles/edit_cache.dir
+/data/suween/corner_detect/build/src/ethzasl_apriltag2/CMakeFiles/ethzasl_apriltag2.dir
+/data/suween/corner_detect/build/src/ethzasl_apriltag2/CMakeFiles/apriltags_demo.dir
+/data/suween/corner_detect/build/src/april_detect/CMakeFiles/rebuild_cache.dir
+/data/suween/corner_detect/build/src/april_detect/CMakeFiles/april_detect.dir
+/data/suween/corner_detect/build/src/april_detect/CMakeFiles/edit_cache.dir
+/data/suween/corner_detect/build/src/test/CMakeFiles/rebuild_cache.dir
+/data/suween/corner_detect/build/src/test/CMakeFiles/corner.dir
+/data/suween/corner_detect/build/src/test/CMakeFiles/edit_cache.dir
